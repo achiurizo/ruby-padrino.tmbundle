@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>partial "$1"${2:${3:, :object =&gt; ${4:''}}${5:, :locals =&gt; {$6\}}}</string>
+	<key>name</key>
+	<string>partial method</string>
+	<key>tabTrigger</key>
+	<string>part</string>
+	<key>uuid</key>
+	<string>BB1350AC-3E84-4EE3-9BC5-55D48BC56D91</string>
+</dict>
+</plist>

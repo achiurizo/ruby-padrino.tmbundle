@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>get ${1::route}${2:, :map =&gt; '$3'${4:, :with =&gt; ${5::id}}${6:, :provides =&gt; [${7::html}]}} do
+  $0
+end</string>
+	<key>name</key>
+	<string>get block</string>
+	<key>tabTrigger</key>
+	<string>get</string>
+	<key>uuid</key>
+	<string>79B979AD-E719-4D9E-B6A3-1842EC0B4418</string>
+</dict>
+</plist>
