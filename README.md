@@ -11,7 +11,7 @@ _You'll need to create that directory if it isn't found._
 `$ cd "~/Library/Application Support/TextMate/Pristine Copy/Bundles/"`
 
 ### Step 2
-`$ git clone git://github.com/achiu/padrino-textmate-bundle.git "Padrino.tmbundle"`
+`$ git clone git://github.com/achiu/ruby-padrino.tmbundle.git`
 
 ### Step 3
 
