@@ -21,7 +21,7 @@
 		<dict/>
 	</dict>
 	<key>name</key>
-	<string>Padrino</string>
+	<string>Ruby Padrino</string>
 	<key>ordering</key>
 	<array>
 		<string>79B979AD-E719-4D9E-B6A3-1842EC0B4418</string>
@@ -30,9 +30,9 @@
 		<string>578DD3FB-E1ED-4EE4-B633-80074BC0B537</string>
 		<string>D931022F-7861-488B-9FAF-D4174FF7B28E</string>
 		<string>BB1350AC-3E84-4EE3-9BC5-55D48BC56D91</string>
-		<string>5E4E56BD-C20D-4BDC-9A13-C7BB73BF5698</string>
 		<string>94B79FA9-C22B-4CE1-B854-55EDE1958363</string>
 		<string>22BCE23C-D377-45D1-B0FE-459C09F1A1FD</string>
+		<string>5E4E56BD-C20D-4BDC-9A13-C7BB73BF5698</string>
 	</array>
 	<key>uuid</key>
 	<string>1B61F254-05B3-489A-8495-E65626EE0B1B</string>
