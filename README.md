@@ -8,7 +8,7 @@ Title Says it all.
 
 _You'll need to create that directory if it isn't found._
 
-`$ cd ~/Library/"Application Support"/TextMate/Bundles/`
+`$ cd "~/Library/Application Support/TextMate/Pristine Copy/Bundles/"`
 
 ### Step 2
 `$ git clone git://github.com/achiu/padrino-textmate-bundle.git "Padrino.tmbundle"`
