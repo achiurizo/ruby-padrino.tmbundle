@@ -8,6 +8,8 @@
 end</string>
 	<key>name</key>
 	<string>post block</string>
+	<key>scope</key>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>post</string>
 	<key>uuid</key>

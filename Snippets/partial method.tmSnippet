@@ -6,6 +6,8 @@
 	<string>partial "$1"${2:${3:, :object =&gt; ${4:''}}${5:, :locals =&gt; {$6\}}}</string>
 	<key>name</key>
 	<string>partial method</string>
+	<key>scope</key>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>part</string>
 	<key>uuid</key>

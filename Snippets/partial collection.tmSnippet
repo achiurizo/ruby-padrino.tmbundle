@@ -6,6 +6,8 @@
 	<string>partial "$1"${2:, :collection =&gt; ${3:''}}</string>
 	<key>name</key>
 	<string>partial collection</string>
+	<key>scope</key>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>parc</string>
 	<key>uuid</key>

@@ -6,6 +6,8 @@
 	<string>redirect ${1:''}</string>
 	<key>name</key>
 	<string>redirect method</string>
+	<key>scope</key>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>redi</string>
 	<key>uuid</key>

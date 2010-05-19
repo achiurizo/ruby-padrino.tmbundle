@@ -6,6 +6,8 @@
 	<string>url(${1::controller},${2::route}${3:,${4::id} =&gt; ${5:''}})</string>
 	<key>name</key>
 	<string>url method</string>
+	<key>scope</key>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>url</string>
 	<key>uuid</key>
