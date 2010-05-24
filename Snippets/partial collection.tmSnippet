@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>partial collection</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>text.html.ruby, text.haml</string>
 	<key>tabTrigger</key>
 	<string>parc</string>
 	<key>uuid</key>
