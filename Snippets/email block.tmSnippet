@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>email ${1::email} do |${2:name, user}|
+  ${3:from ${4:'myemail@site.com'}}
+  ${5:to ${6:user.email}}
+  ${7:subject ${8:'welcome'}}
+  ${9:locals ${10::name =&gt; name}}
+  ${11:content_type ${12:'text/html'}}
+  ${13:via ${14::sendmail}}
+  ${15:render ${16:'my_email'}}
+end
+$0</string>
+	<key>name</key>
+	<string>email block</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>email</string>
+	<key>uuid</key>
+	<string>14638C07-08F8-4625-9A1D-ED3B29AC89D2</string>
+</dict>
+</plist>
